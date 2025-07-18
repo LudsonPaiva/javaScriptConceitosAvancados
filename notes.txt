@@ -1,0 +1,14 @@
+
+javaScript é:
+- case sensitive
+- fracamente tipado
+
+variaveis - convenções:
+- pode começar com letra
+- pode começar com $
+- pode começar com _ = quando devemos informar que ela não deve ser alterada
+- não pode começar com número
+- começa com letras minúsculas
+- classe e função construtora = começam com letra maiúscula
+- tudo em maiúsculo = variável é constante
+- palavras compostas = camel case = testeVariavel
