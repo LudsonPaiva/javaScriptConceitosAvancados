@@ -6,7 +6,7 @@ function funcao1 () {
     console.log(this)
 }
 
-// não tem um contexto. Não trem o this
+// não tem um contexto. Não tem o this
 const funcao2 = () => {
     console.log(this)
 }
